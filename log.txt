@@ -1,1 +1,1 @@
-erro logs
+error logs
